@@ -1,7 +1,7 @@
 package JanStudy.fileStudy;
 
 //啤酒问题
-//2元一瓶，四个盖子换一瓶，两个瓶子换一瓶，10元能喝多少瓶
+ //2元一瓶，四个盖子换一瓶，两个瓶子换一瓶，10元能喝多少瓶
 public class test4 {
     public static int allNumber;
     public static int lastBottleNumber;
